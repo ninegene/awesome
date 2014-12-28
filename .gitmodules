@@ -1,0 +1,15 @@
+[submodule "awesome-angularjs"]
+	path = awesome-angularjs
+	url = https://github.com/gianarb/awesome-angularjs.git
+[submodule "awesome-flask"]
+	path = awesome-flask
+	url = https://github.com/humiaozuzu/awesome-flask.git
+[submodule "awesome-react"]
+	path = awesome-react
+	url = https://github.com/enaqx/awesome-react.git
+[submodule "awesome-sqlalchemy"]
+	path = awesome-sqlalchemy
+	url = https://github.com/dahlia/awesome-sqlalchemy.git
+[submodule "awesome-courses"]
+	path = awesome-courses
+	url = https://github.com/prakhar1989/awesome-courses.git
