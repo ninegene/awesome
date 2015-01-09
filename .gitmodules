@@ -13,3 +13,6 @@
 [submodule "awesome-courses"]
 	path = awesome-courses
 	url = https://github.com/prakhar1989/awesome-courses.git
+[submodule "docker-cheat-sheet"]
+	path = docker-cheat-sheet
+	url = https://github.com/wsargent/docker-cheat-sheet.git
